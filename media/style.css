@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@100;700&display=swap');
+
+.mascot-title {
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Pixelify Sans";
+  text-align: center;
+}
+
+p {
+  font-family: "Pixelify Sans";
+}
+
+.tagline {
+  text-align: center;
+}
+
+.timer {
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+}
